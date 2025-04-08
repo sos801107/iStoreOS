@@ -219,6 +219,9 @@ fi
 # rm -rf ../../customfeeds/luci/applications/luci-app-verysync
 # svn export https://github.com/kenzok8/small-package/trunk/verysync
 # svn export https://github.com/kenzok8/small-package/trunk/luci-app-verysync
+rm -rf packages/libs/libnftnl
+rm -rf feeds/packages/lang/rust
+
 
 # VPN服务器
 # svn export https://github.com/kenzok8/small-package/trunk/luci-app-ssr-mudb-server
