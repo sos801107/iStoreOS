@@ -2,11 +2,11 @@
   "x86_64": [
     {
       "x86_64": "ImmortalwWrt-X86_64",
-      "build_date": "1756953906",
-      "filename": "immortalwrt-24.10.2-2025090412-x86-64-squashfs-combined-efi.img.gz",
-      "size": 187216299,
-      "sha256sum": "9a8c47ab780f80924688086ee5c37c3b360ffc8001353ae83aade1b77aaca744",
-      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/ImmortalwWrt-X86_64/immortalwrt-24.10.2-2025090412-x86-64-squashfs-combined-efi.img.gz",
+      "build_date": "1757003394",
+      "filename": "immortalwrt-24.10.2-2025090505-x86-64-squashfs-combined-efi.img.gz",
+      "size": 196393905,
+      "sha256sum": "1b0423ba85a3b306b2c36dc040d49d0a8304c5d1b0ac6158ef9268ee7dd3109a",
+      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/ImmortalwWrt-X86_64/immortalwrt-24.10.2-2025090505-x86-64-squashfs-combined-efi.img.gz",
       "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/ImmortalwWrt-X86_64"
     }
   ],
