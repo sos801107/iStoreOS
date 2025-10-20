@@ -2,11 +2,11 @@
   "x86_64": [
     {
       "x86_64": "Lede",
-      "build_date": "1760891229",
-      "filename": "Lede-24.10.3-2025102004-x86-64-squashfs-combined-efi.img.gz",
-      "size": 204939882,
-      "sha256sum": "2782f867f1fafc6683262d6699f983e908cebb682179be4eb819870622963c1f",
-      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/Lede/Lede-24.10.3-2025102004-x86-64-squashfs-combined-efi.img.gz",
+      "build_date": "1760977857",
+      "filename": "Lede-24.10.3-2025102104-x86-64-squashfs-combined-efi.img.gz",
+      "size": 204952889,
+      "sha256sum": "d48a7f0fc46252d669727a0742deea6946b0ef9da0efd8574b2714a2ca3d64ff",
+      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/Lede/Lede-24.10.3-2025102104-x86-64-squashfs-combined-efi.img.gz",
       "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/Lede"
     }
   ],
