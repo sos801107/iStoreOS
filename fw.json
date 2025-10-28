@@ -2,7 +2,7 @@
   "x86_64": [
     {
       "x86_64": "iStoreOS-X86_64",
-      "build_date": "1761624341",
+      "build_date": "1761636965",
       "filename": "istoreos-24.10.3-2025102814-x86-64-squashfs-combined-efi.img.gz",
       "size": 197123865,
       "sha256sum": "60ec181266c8145419bcf7eed079ea92e3b2e7c6710eb15f7b7deb9e8d4d927d",
@@ -10,5 +10,5 @@
       "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/iStoreOS-X86_64"
     }
   ],
-  "count": 1
+  "count": 2
 }
