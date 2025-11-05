@@ -1,14 +1,14 @@
 {
   "x86_64": [
     {
-      "x86_64": "iStoreOS-rootfs",
-      "build_date": "1762273886",
-      "filename": "istoreos-armsr-armv8-generic-squashfs-combined-efi.img.gz",
-      "size": 150732063,
-      "sha256sum": "7cd1b6af81efe67a029c6685a3ce60b46ebed498407896d54c370c7d56ac5a18",
-      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/iStoreOS-rootfs/istoreos-armsr-armv8-generic-squashfs-combined-efi.img.gz",
-      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/iStoreOS-rootfs"
+      "x86_64": "iStoreOS-X86_64",
+      "build_date": "1762331503",
+      "filename": "istoreos-24.10.4-2025110518-x86-64-squashfs-combined-efi.img.gz",
+      "size": 195984825,
+      "sha256sum": "8769ed8850edc2c3bfa3e55a0326d730f242c72f26cae62f4ecb6d86792004e5",
+      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/iStoreOS-X86_64/istoreos-24.10.4-2025110518-x86-64-squashfs-combined-efi.img.gz",
+      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/iStoreOS-X86_64"
     }
   ],
-  "count": 2
+  "count": 1
 }
