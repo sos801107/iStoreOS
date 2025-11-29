@@ -174,7 +174,7 @@ jobs:
       with:
         name: OpenWrt-24.10.4-X86_64 for ${{ env.DATE }}
         allowUpdates: true
-        tag: OpenWrt-X86_64
+        tag: OpenWrt-X86_64-${{ env.FIRMWARE_TAG }}
         token: ${{ secrets.GITHUB_TOKEN }}
         artifacts: ${{ env.FIRMWARE_PATH }}/openwrt-24.10.4*.img.gz
         body: |
