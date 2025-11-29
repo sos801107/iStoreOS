@@ -173,7 +173,7 @@ jobs:
       with:
         name: ImmortalwWrt-24.10.4-X86_64 for ${{ env.DATE }}
         allowUpdates: true
-        tag: ImmortalwWrt-X86_64
+        tag: ImmortalwWrt-X86_64-${{ env.FIRMWARE_TAG }}
         token: ${{ secrets.GITHUB_TOKEN }}
         artifacts: ${{ env.FIRMWARE_PATH }}/immortalwrt-24.10.4*.img.gz
         body: |
