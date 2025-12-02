@@ -1,13 +1,13 @@
 {
   "x86_64": [
     {
-      "x86_64": "OpenWrt-X86_64-20251202",
-      "build_date": "1764606987",
-      "filename": "openwrt-24.10.4-2025120203-x86-64-squashfs-combined-efi.img.gz",
-      "size": 209222674,
-      "sha256sum": "40c0f37da433dfdeea65eb140dc0cbac789a800d983a7e32001862e4e9cfc318",
-      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/OpenWrt-X86_64-20251202/openwrt-24.10.4-2025120203-x86-64-squashfs-combined-efi.img.gz",
-      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/OpenWrt-X86_64-20251202"
+      "x86_64": "OpenWrt-X86_64-20251203",
+      "build_date": "1764693412",
+      "filename": "openwrt-24.10.4-2025120305-x86-64-squashfs-combined-efi.img.gz",
+      "size": 209337683,
+      "sha256sum": "430d73fde73f804cbf4193e009c8a48cf9104d17b6f069c25f463f42e31609ed",
+      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/OpenWrt-X86_64-20251203/openwrt-24.10.4-2025120305-x86-64-squashfs-combined-efi.img.gz",
+      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/OpenWrt-X86_64-20251203"
     }
   ],
   "count": 1
