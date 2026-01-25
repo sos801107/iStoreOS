@@ -102,7 +102,8 @@ function merge_package() {
 #git_sparse_clone main https://github.com/Jaykwok2999/istoreos-theme luci-theme-argon
 #git_sparse_clone main https://github.com/Jaykwok2999/istoreos-theme luci-app-argon-config
 
-#git_sparse_clone main https://github.com/xiaorouji/openwrt-passwall luci-app-passwall
+git_sparse_clone main https://github.com/Openwrt-Passwall/openwrt-passwall luci-app-passwall
+
 git_sparse_clone luci https://github.com/chenmozhijin/turboacc luci-app-turboacc
 git_sparse_clone main https://github.com/kiddin9/kwrt-packages luci-app-mosdns
 git_sparse_clone main https://github.com/kiddin9/kwrt-packages mosdns
@@ -116,8 +117,6 @@ git_sparse_clone dev https://github.com/vernesong/OpenClash luci-app-openclash
 #git_sparse_clone main https://github.com/sos801107/packages sing-box
 #git_sparse_clone main https://github.com/sos801107/packages istoreos-files
 
-src-git passwall_packages https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git;main
-src-git passwall_luci https://github.com/Openwrt-Passwall/openwrt-passwall.git;main
 
 #在线OTA
 rm -rf package/diy/luci-app-ota
