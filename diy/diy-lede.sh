@@ -59,7 +59,7 @@ rm -rf packages/istoreos-files
 #rm -rf package/kernel/mt76
 rm -rf feeds/packages/shadowsocks-libev
 rm -rf feeds/packages/net/shadowsocks-libev
-
+rm -rf feeds/small/xray-core
 
 # Git稀疏克隆，只克隆指定目录到本地
 function git_sparse_clone() {
@@ -128,7 +128,7 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 
 # golong1.24.2依赖
 rm -rf feeds/packages/lang/golang
-git clone https://github.com/sbwml/packages_lang_golang -b 26.x feeds/packages/lang/golang
+git clone https://github.com/sbwml/packages_lang_golang -b 25.x feeds/packages/lang/golang
 
 # UPnP
 rm -rf feeds/{packages/net/miniupnpd,luci/applications/luci-app-upnp}
