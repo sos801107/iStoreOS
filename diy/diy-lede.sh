@@ -59,7 +59,6 @@ rm -rf packages/istoreos-files
 #rm -rf package/kernel/mt76
 rm -rf feeds/packages/shadowsocks-libev
 rm -rf feeds/packages/net/shadowsocks-libev
-rm -rf feeds/small/xray-core
 
 # Git稀疏克隆，只克隆指定目录到本地
 function git_sparse_clone() {
