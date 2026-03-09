@@ -55,7 +55,8 @@ rm -rf feeds/luci/applications/luci-app-argon-config
 rm -rf packages/istoreos-files
 rm -rf feeds/packages/shadowsocks-libev
 rm -rf feeds/packages/net/shadowsocks-libev
-
+rm -rf package/feeds/small/shadowsocks-libev
+rm -rf feeds/small/shadowsocks-libev
 # Git稀疏克隆，只克隆指定目录到本地
 function git_sparse_clone() {
   branch="$1" repourl="$2" && shift 2
