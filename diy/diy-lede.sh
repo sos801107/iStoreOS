@@ -61,6 +61,8 @@ rm -rf feeds/packages/shadowsocks-libev
 rm -rf feeds/packages/net/shadowsocks-libev
 rm -rf package/feeds/theme/rust
 rm -rf feeds/theme/rust
+rm -rf feeds/small/xray-core
+rm -rf package/feeds/small/xray-core
 # Git稀疏克隆，只克隆指定目录到本地
 function git_sparse_clone() {
   branch="$1" repourl="$2" && shift 2
