@@ -19,7 +19,7 @@ wget -qO- https://raw.githubusercontent.com/Jaykwok2999/istoreos-actions/refs/he
 chmod +x scripts/get_source_date_epoch.sh
 
 pushd
-   curl -sSL https://raw.githubusercontent.com/Jaykwok2999/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh
+   curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/refs/heads/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh
 popd
 
 #修改默认IP地址
