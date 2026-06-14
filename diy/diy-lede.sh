@@ -142,7 +142,7 @@ git clone https://git.kejizero.online/zhao/luci-app-upnp feeds/luci/applications
  popd
 
 pushd
-   curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh
+   curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/refs/heads/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh
 popd
 
 
