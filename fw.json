@@ -1,13 +1,13 @@
 {
   "x86_64": [
     {
-      "x86_64": "iStoreOS-X86_64-20260701",
-      "build_date": "1782842574",
-      "filename": "istoreos-24.10.4-2026070106-x86-64-squashfs-combined-efi.img.gz",
-      "size": 173849549,
-      "sha256sum": "ec0ff0459368cae6873a02110ed77e03c7ffe0b160d0a0f6e9130b1d930c8ea0",
-      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/iStoreOS-X86_64-20260701/istoreos-24.10.4-2026070106-x86-64-squashfs-combined-efi.img.gz",
-      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/iStoreOS-X86_64-20260701"
+      "x86_64": "iStoreOS-X86_64-20260702",
+      "build_date": "1782928999",
+      "filename": "istoreos-24.10.4-2026070206-x86-64-squashfs-combined-efi.img.gz",
+      "size": 173853733,
+      "sha256sum": "41e8a15d8de2c43d17d029022b1f56b3c227cdafc305cb8fe71be00ab1fa0ec4",
+      "url": "https://pro.sos07.eu.org/https://github.com/sos801107/iStoreOS/releases/download/iStoreOS-X86_64-20260702/istoreos-24.10.4-2026070206-x86-64-squashfs-combined-efi.img.gz",
+      "release_url": "https://github.com/sos801107/iStoreOS/releases/tag/iStoreOS-X86_64-20260702"
     }
   ],
   "count": 1
